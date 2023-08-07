@@ -8,3 +8,6 @@
 
 Для улучшения качества били использованны разные варианты лосс функций: BCE, FACAL(https://arxiv.org/abs/1708.02002), DICE(https://arxiv.org/abs/1707.03237), Tversky(https://www.arxiv-vanity.com/papers/1803.11078/), Lovasz(https://arxiv.org/abs/1705.08790)
 ![image](https://github.com/PRomanVl/Semantic_segmentation/assets/96573887/126e24d0-babe-4783-be6c-311ba4cfdca8)
+
+
+Ссылка на колаб https://drive.google.com/file/d/1fiq2KQbX9yNKGYkaXWKUNpWC8d0srWoV/view?usp=drive_link
